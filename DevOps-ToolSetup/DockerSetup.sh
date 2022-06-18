@@ -31,7 +31,6 @@ sudo apt install docker-ce -y
 
 #Check Docker Status
 sudo systemctl status docker
-sleep 2
 
 #Check docekr version
 
