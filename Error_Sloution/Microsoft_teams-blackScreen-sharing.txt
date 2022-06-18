@@ -1,0 +1,5 @@
+Open up the terminal
+Copy and paste in the following command: sudo nano /etc/gdm/custom.conf
+Erase the pound symbol before the line that reads WaylandEnable=false
+Save the file on nano by combining the CTRL and X keys and pressing Y and Enter.
+Restart your PC
